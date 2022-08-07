@@ -8,10 +8,11 @@ It is a login screen simulation prepared for the Üsküdar University applicatio
 <a href="https://pub.dev/packages/cloud_firestore" target="_blank">Visit Cloud Firestore Package</a><br>
 <a href="https://pub.dev/packages/firebase_auth" target="_blank">Visit Firebase Auth Package</a><br>
 <a href="https://pub.dev/packages/google_sign_in" target="_blank">Visit Google Sign In Package</a><br>
-<a href="https://pub.dev/packages/flutter_svg" target="_blank">Visit Flutter SVG Package</a><br>
 <a href="https://pub.dev/packages/provider" target="_blank">Visit Provider Package</a><br>
-<a href="https://pub.dev/packages/awesome_dialog" target="_blank">Visit Alert Dialog Package</a><br>
 <a href="https://pub.dev/packages/email_validator" target="_blank">Visit Email Validator Package</a><br>
+<a href="https://pub.dev/packages/flutter_svg" target="_blank">Visit Flutter SVG Package</a><br>
+<a href="https://pub.dev/packages/awesome_dialog" target="_blank">Visit Alert Dialog Package</a><br>
+
 
 
 
